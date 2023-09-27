@@ -7,5 +7,5 @@
 [05](src/Correlation.R) Корреляция и простая линейная регрессия (МНК)   
 [06](src/Multiple%20linear%20regression.R) Множественная линейная регрессия   
 [07](src/Model%20selection.R) Множественная линейная регрессия. Отбор моделей   
-[07](src/Model%20diagnostics.R) Диагностика модели   
+[08](src/Model%20diagnostics.R) Диагностика модели   
 [09](src/Logistic%20regression.R) Логистическая регрессия    
